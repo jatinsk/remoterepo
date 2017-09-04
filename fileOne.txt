@@ -17,3 +17,7 @@ function mod(int a, int b){
 function add(int a, int b){
  c = a + b;
 }
+
+function sub(int a, int b){
+ c = a - b;
+}
