@@ -1,2 +1,7 @@
 Adding a new file named fileTwo.txt
+
 Updating the file. To understand stashing.
+
+Stashing changes.
+Stashing before pulling the data
+
