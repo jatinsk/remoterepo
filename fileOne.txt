@@ -6,3 +6,11 @@ fbfgfhgfg
 dsfghsgfhjfgh
 fbhfsfhfghf
 Committing the changes needed.
+
+function divide(int a, int b){
+ c = a / b;
+}
+
+function mod(int a, int b){
+ c = a % b;
+}
