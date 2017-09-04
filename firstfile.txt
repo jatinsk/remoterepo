@@ -1,3 +1,5 @@
 Initial first commit to local repo.
 
-Modifying the file to see the diff....
+Modifying the file to see the diff...
+
+Adding this line from other clone repository.
