@@ -7,4 +7,6 @@ Updating the file. To understand stashing.
 
 Stashing changes.
 Stashing before pulling the data
-
+function print(){
+ printf("Hello");
+}
