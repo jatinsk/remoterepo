@@ -13,3 +13,7 @@ function divide(int a, int b){
 function mod(int a, int b){
  c = a % b;
 }
+
+function add(int a, int b){
+ c = a + b;
+}
