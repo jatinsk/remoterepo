@@ -1,3 +1,5 @@
+Fast forward merge concept.
+
 Adding a new file named fileTwo.txt
 hdgfhdgfhdgf
 dfdsfgshgf
