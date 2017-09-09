@@ -1,3 +1,9 @@
+Changes from forked repository.
+public void display()
+{
+  printf("Display method....");
+}
+
 Assignment 3 practice.
 dfghsgfhjf
 fhfhjfhjshfjhfjshjsjsf
