@@ -1,7 +1,5 @@
 djhfjsgfghfdhgjfdkg
 jfhgjfdhgjhfg
-fshbghfghfgh
-hfghfghfgjhfdg
 
 Changes from forked repository.
 public void display()
